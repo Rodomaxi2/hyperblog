@@ -1,13 +1,13 @@
 body
 {
     color: #333;
-    text-align: left;
-    font-family: "Aria";
+    text-align: center;
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-container
+#container
 {
     width: 70%;
     padding: 1em;
@@ -15,7 +15,7 @@ container
     border: solid #DDD;
     margin: 0 auto;
 }
-container h1
+#container h1
 {
     font-size: 20px;
 }
